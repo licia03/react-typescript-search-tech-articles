@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06798a3f7ac28be1c4b2811c90c24253",
+    "revision": "64232e14ea636d2746a2ee21d9a66b6a",
     "url": "/react-typescript-search-tech-articles/index.html"
   },
   {
-    "revision": "3c1b29049f20f17c2883",
+    "revision": "75c3df14f90f74f50939",
     "url": "/react-typescript-search-tech-articles/static/css/main.ff720124.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-typescript-search-tech-articles/static/js/2.19c71179.chunk.js.LICENSE"
   },
   {
-    "revision": "3c1b29049f20f17c2883",
-    "url": "/react-typescript-search-tech-articles/static/js/main.435900ae.chunk.js"
+    "revision": "75c3df14f90f74f50939",
+    "url": "/react-typescript-search-tech-articles/static/js/main.7a79878d.chunk.js"
   },
   {
     "revision": "21d8ca5781c641cb62ce",

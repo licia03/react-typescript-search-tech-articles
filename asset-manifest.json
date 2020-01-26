@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-typescript-search-tech-articles/static/css/main.ff720124.chunk.css",
-    "main.js": "/react-typescript-search-tech-articles/static/js/main.435900ae.chunk.js",
-    "main.js.map": "/react-typescript-search-tech-articles/static/js/main.435900ae.chunk.js.map",
+    "main.js": "/react-typescript-search-tech-articles/static/js/main.7a79878d.chunk.js",
+    "main.js.map": "/react-typescript-search-tech-articles/static/js/main.7a79878d.chunk.js.map",
     "runtime-main.js": "/react-typescript-search-tech-articles/static/js/runtime-main.9533f961.js",
     "runtime-main.js.map": "/react-typescript-search-tech-articles/static/js/runtime-main.9533f961.js.map",
     "static/js/2.19c71179.chunk.js": "/react-typescript-search-tech-articles/static/js/2.19c71179.chunk.js",
     "static/js/2.19c71179.chunk.js.map": "/react-typescript-search-tech-articles/static/js/2.19c71179.chunk.js.map",
     "index.html": "/react-typescript-search-tech-articles/index.html",
-    "precache-manifest.820e0ddc10bac1ed173c2a1b256f7dc7.js": "/react-typescript-search-tech-articles/precache-manifest.820e0ddc10bac1ed173c2a1b256f7dc7.js",
+    "precache-manifest.0eb619220b8ae2c9a7f001dd187e6baf.js": "/react-typescript-search-tech-articles/precache-manifest.0eb619220b8ae2c9a7f001dd187e6baf.js",
     "service-worker.js": "/react-typescript-search-tech-articles/service-worker.js",
     "static/css/main.ff720124.chunk.css.map": "/react-typescript-search-tech-articles/static/css/main.ff720124.chunk.css.map",
     "static/js/2.19c71179.chunk.js.LICENSE": "/react-typescript-search-tech-articles/static/js/2.19c71179.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9533f961.js",
     "static/js/2.19c71179.chunk.js",
     "static/css/main.ff720124.chunk.css",
-    "static/js/main.435900ae.chunk.js"
+    "static/js/main.7a79878d.chunk.js"
   ]
 }
