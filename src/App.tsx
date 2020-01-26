@@ -9,7 +9,7 @@ const App: React.FC = () => {
   const {data, isLoading, isError, setUrl} = useDataApi();
 
   const submitHandler = (inputValue: string) => {
-    setUrl(`http://hn.algolia.com/api/v1/search?query=${inputValue}`);
+    setUrl(`https://hn.algolia.com/api/v1/search?query=${inputValue}`);
   };
 
   return (
